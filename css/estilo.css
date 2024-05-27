@@ -1,0 +1,162 @@
+/*parametros globais*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+  }
+.container{
+    padding: 120px 80px;
+    text-align: center;
+}
+/*estilos especiais*/
+h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+/*faixa com as midias sociais*/
+.faixas{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+.faixas p{
+    max-width: 800px;
+    margin: 0 auto 50px;
+    font-size: 40px;
+    color: #fff;
+}
+.faixas span{
+    font-weight: 700;
+    font-style: italic;
+}
+.faixas img{
+    width: 50px;
+    margin: 0 20px;
+}
+/*==================================secao1=======================================*/
+.secao-banner{
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url("../img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.conteiner1{
+    max-width: 250px;
+    color: #3c184e;
+}
+.p1{
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+.conteiner1 img{
+    width: 30px;
+    margin-right: 5px;
+}
+.p2{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+.conteiner2{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+h1{
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+.p3{
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+.conteiner2 a{
+    text-decoration: none;
+    color: #ffff;
+}
+.conteiner2 img{
+    width: 20px;
+}
+/*=============================================secao2============================================*/
+.servicos{
+    width: 100%;
+    padding: 120px 80px;
+}
+/*=============================================secao3============================================*/
+.conteiner-lista{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+.lista{
+    font-size: 20px;
+    margin: 0 0 20px 0;
+    color: #3c184e;
+}
+.lista span{
+    font-weight: 700;
+    font-style: italic;
+}
+.conteiner-img{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.conteiner-img img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+/*=========================================================secao4==========================================================*/
+.marcas{
+    width: 100%;
+    padding: 120px 80px;
+}
+.conteiner-marcas{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.conteiner-marcas img{
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+/*secao5*/
+/*vide faixa midias sociais*/
+/*secao6*/
+.paragrafo-mapa{
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.container iframe{
+    width: 800px;
+    height: 450px;
+}
+/*secao7*/
+.rodape{
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+.rodape p{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
